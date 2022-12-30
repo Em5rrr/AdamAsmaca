@@ -1,0 +1,10 @@
+C:\PROJECTS\adamAsmaca\bin\Debug\adamAsmaca.exe.config
+C:\PROJECTS\adamAsmaca\bin\Debug\adamAsmaca.exe
+C:\PROJECTS\adamAsmaca\bin\Debug\adamAsmaca.pdb
+C:\PROJECTS\adamAsmaca\obj\Debug\adamAsmaca.csproj.AssemblyReference.cache
+C:\PROJECTS\adamAsmaca\obj\Debug\adamAsmaca.Form1.resources
+C:\PROJECTS\adamAsmaca\obj\Debug\adamAsmaca.Properties.Resources.resources
+C:\PROJECTS\adamAsmaca\obj\Debug\adamAsmaca.csproj.GenerateResource.cache
+C:\PROJECTS\adamAsmaca\obj\Debug\adamAsmaca.csproj.CoreCompileInputs.cache
+C:\PROJECTS\adamAsmaca\obj\Debug\adamAsmaca.exe
+C:\PROJECTS\adamAsmaca\obj\Debug\adamAsmaca.pdb
